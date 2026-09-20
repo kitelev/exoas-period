@@ -5,7 +5,10 @@ exo__Instance_class:
   - "[[3d59b80e-7abd-467e-849a-6335e2412413]]"
 exo__Asset_isDefinedBy: "[[cf4a01a9-f541-4424-986a-95b23de8dc9e]]"
 period__Quarter_quarterNumber: 2
-exo__Asset_updatedAt: 2026-09-20T13:14:01
+exo__Asset_updatedAt: 2026-09-20T19:01:53
+exo__Asset_label: Q2-2023
+aliases:
+  - "Q2-2023"
 ---
 
 # Q2-23
